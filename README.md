@@ -13,4 +13,5 @@
 <p>1. Download the latest version in https://github.com/guimazito/bet-json/releases</p>
 <p>2. Run the executable</p>
 <p>3. Choose what you wanna do</p>
-![{952C10DB-3F39-42AE-A4D6-C634B3E2C166}](https://github.com/user-attachments/assets/8dffbd87-89c3-4de7-b1cc-c76ee274ba8b)
+
+![print](https://github.com/user-attachments/assets/6aba04cd-bc52-407b-8c39-609d2011a02e)
